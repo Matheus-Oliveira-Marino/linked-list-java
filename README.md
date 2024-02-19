@@ -1,3 +1,6 @@
+# Linked-list-java
+- [ ] A crafted collection of Java exercises of Linked list, designed to enrich deeper knowledge, fostering deeper understanding and skill refinement on an specific Data Structure
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
