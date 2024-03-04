@@ -21,4 +21,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 ## License
-This project is licensed under the [MIT LICENSE](). Please refer to the file for details.
+This project is licensed under the [MIT LICENSE](https://github.com/Matheus-Oliveira-Marino/linked-list-java/blob/main/LICENSE). Please refer to the file for details.
